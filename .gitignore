@@ -1,0 +1,7 @@
+tmp
+wandb
+data
+
+
+.venv
+.env
